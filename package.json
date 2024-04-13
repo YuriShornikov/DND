@@ -15,8 +15,7 @@
     "preshow:doc": "yarn run doc",
     "show:doc": "live-server doc",
     "preshow:dist": "yarn run build",
-    "show:dist": "live-server dist",
-    "install": "yarn install"
+    "show:dist": "live-server dist"
   },
   "author": "coursar",
   "license": "MIT",
